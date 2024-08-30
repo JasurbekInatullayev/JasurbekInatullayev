@@ -1,0 +1,3 @@
+/Users/j.inatullayev/CLionProjects/JasurbekInatullayev/cmake-build-debug/CMakeFiles/JasurbekInatullayev.dir
+/Users/j.inatullayev/CLionProjects/JasurbekInatullayev/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/j.inatullayev/CLionProjects/JasurbekInatullayev/cmake-build-debug/CMakeFiles/rebuild_cache.dir
